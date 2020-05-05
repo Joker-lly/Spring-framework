@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c317c75-dafc-4926-a974-5fca65b71ed4" name="Default Changelist" comment="spring-framework-5.1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/spring-core">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-beans">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-aop">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-context">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-aop" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-aop" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-beans" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-context" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-context" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="spring-context" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YgoIjQvhcL9R6c1t6ngil3VCPG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWorkspase\spring\spring-framework-5.1.x\myspring\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="spring.myspring.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in spring.spring-aop.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring.spring-aop.test" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/spring-aop/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in spring.spring-context.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring.spring-context.test" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/spring-context/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in spring.spring-expression.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring.spring-expression.test" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/spring-expression/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in spring.spring-instrument.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring.spring-instrument.test" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/spring-instrument/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.java in spring.spring-context.test" />
+        <item itemvalue="JUnit.java in spring.spring-instrument.test" />
+        <item itemvalue="JUnit.java in spring.spring-expression.test" />
+        <item itemvalue="JUnit.java in spring.spring-aop.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c317c75-dafc-4926-a974-5fca65b71ed4" name="Default Changelist" comment="" />
+      <created>1583373521011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583373521011</updated>
+      <workItem from="1583373537269" duration="3854000" />
+      <workItem from="1583382053534" duration="7614000" />
+      <workItem from="1583462270482" duration="17329000" />
+      <workItem from="1583825488130" duration="969000" />
+      <workItem from="1585476260304" duration="249000" />
+      <workItem from="1588381288764" duration="10823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-framework-5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-framework-5.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583384765967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1583384765967" />
+    <state x="175" y="5" key="CommitChangelistDialog2" timestamp="1588663799280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="175" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588663799280" />
+    <state width="753" height="466" key="DebuggerActiveHint" timestamp="1583503488686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="753" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1583503488686" />
+    <state x="558" y="214" key="FileChooserDialogImpl" timestamp="1588644890673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="214" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588644890673" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1583506692026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583506692026" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1583506692026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583506692026" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1583506692026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583506692026" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1583506692026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583506692026" />
+    <state width="1493" height="246" key="GridCell.Tab.1.bottom" timestamp="1583506692017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583506692017" />
+    <state width="1493" height="246" key="GridCell.Tab.1.center" timestamp="1583506692017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583506692017" />
+    <state width="1493" height="246" key="GridCell.Tab.1.left" timestamp="1583506692017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583506692017" />
+    <state width="1493" height="246" key="GridCell.Tab.1.right" timestamp="1583506692017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583506692017" />
+    <state x="279" y="110" key="SettingsEditor" timestamp="1585476503902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585476503902" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588644640851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588644640851" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1588381865966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588381865966" />
+    <state x="200" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583502252799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583502252799" />
+    <state x="178" y="1" key="new project wizard" timestamp="1583376132751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="1" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583376132751" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583502330811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583502330811" />
+    <state x="379" y="49" width="672" height="676" key="search.everywhere.popup" timestamp="1588383856339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="49" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588383856339" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myspring/src/main/java/test/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/PostProcessorRegistrationDelegate.java</url>
+          <line>210</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
